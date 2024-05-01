@@ -1,0 +1,103 @@
+.bg
+{ 
+    background-color: black;
+    box-shadow: 2px 2px 3px 2px red;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 100px;
+    width: 1500x;
+    height: 200px;
+    position: relative;
+}
+
+.First_class{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    letter-spacing: 10px;
+    font-weight: bolder;
+}
+
+.details1{
+    width: 20%;
+    height:250px;
+    background-color: brown;
+    margin: 20px;
+    padding: 10px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+.details2{
+    width: 20%;
+    height:200px;
+    background-color: brown;
+    margin: 20px;
+    padding: 10px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    display: inline-block;
+}
+.details3{
+    width: 20%;
+    height:346px;
+    background-color: brown;
+    margin: 20px;
+    padding: 10px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+.reg{
+
+    color: black;
+    size: 10px;
+    padding: 10px;
+    background-color: white;
+    width: 20px;
+    margin-top: 50px;
+
+}
+.reg:hover{
+    color: yellow;
+    text-decoration: underline;
+    cursor: pointer;
+    background-color: green;
+}
+.First_class:hover{
+    color: blue;
+}
+
+.Register{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-left: -60px;
+    border: 1px solid white;
+    box-shadow: 2px 3px rgb(165, 153, 42);
+    padding: 5px;
+}
+
+.Register:hover{
+    color: yellow;
+}
+
+.login{
+    text-decoration: none;
+    color: white;
+    font-size:20px;
+    margin-right: -60px;
+    margin-left: 50px;
+    border: 1px solid white;
+    box-shadow: 2px 3px rgb(165, 163, 42);
+    padding: 5px;
+}
+
+.login:hover{
+    color: yellow;
+}
